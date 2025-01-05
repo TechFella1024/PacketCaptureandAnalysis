@@ -14,19 +14,19 @@ This project demonstrates the use of Wireshark to capture and analyze network tr
 ## Screenshots
 1. **Wireshark Interface**:
    - Capturing live network traffic.
-   - ![Wireshark Interface](screenshots/wireshark_interface.png)
+   - ![Wireshark Interface](https://github.com/TechFella1024/PacketCaptureandAnalysis/blob/main/wireshark_interface.png)
 
 2. **HTTP Traffic Analysis**:
    - Displaying HTTP packets and streams.
-   - ![HTTP Traffic Analysis](screenshots/http_traffic_analysis.png)
+   - ![HTTP Traffic Analysis](https://github.com/TechFella1024/PacketCaptureandAnalysis/blob/main/http_traffic_analysis.png)
 
 3. **DNS Traffic Analysis**:
    - Filtering DNS queries and responses.
-   - ![DNS Traffic Analysis](screenshots/dns_traffic_analysis.png)
+   - ![DNS Traffic Analysis](https://github.com/TechFella1024/PacketCaptureandAnalysis/blob/main/dns_traffic_analysis.png)
 
 4. **Statistics Overview**:
    - Protocol Hierarchy and Conversations.
-   - ![Statistics Overview](screenshots/statistics_overview.png)
+   - ![Statistics Overview](https://github.com/TechFella1024/PacketCaptureandAnalysis/blob/main/statistics_overview.png)
 
 ## Lessons Learned
 - Gained experience in capturing and filtering network traffic.
